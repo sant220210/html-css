@@ -1,8 +1,11 @@
 h1{
     color:aqua;
 }
-.btn{
+
+.item{
     width: 100px;   
     height: 100px;
-    background: #000;
+    padding: 10px;
+    border: red solid #000;
+    background: pink;
 }
